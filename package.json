@@ -1,0 +1,29 @@
+{
+  "name": "src-site-nuxt-vercel",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
+    "nuxt": "^3.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^9.4.0",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.6.3",
+    "vite": "^7.1.6",
+    "vue-tsc": "2.2"
+  }
+}
