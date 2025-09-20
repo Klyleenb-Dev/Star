@@ -1,7 +1,7 @@
-# ShindoClient Website
+# StarClient Website
 
 <p align="center">
-  <img src="/public/logo.png" alt="ShindoClient Logo" width="200" />
+  <img src="/public/logo.png" alt="StarClient Logo" width="200" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://Starclient.com/discord">
     <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://github.com/ShindoClient/website/blob/master/LICENSE">
+  <a href="https://github.com/Star/website/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/ShindoClient/website?style=for-the-badge" alt="License"/>
   </a>
   <a href="https://nuxtjs.org/">
